@@ -36,7 +36,10 @@ Then select the project, go to Plugins tab and install , select APOC and then cl
 
 
 **Step4** Download the tool
-Download the tool from application directory of the GitHub and use it.
+Download the tool from application directory of the GitHub and install it and use it. There are three versions of the tools for three operating systems
+Ubuntu:
+Windows:
+MacOS: 
 
 
 
