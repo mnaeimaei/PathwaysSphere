@@ -35,14 +35,18 @@ Then select the project, go to Plugins tab and install , select APOC and then cl
 
 
 
-**Step4** Download the tool
+
+
+**Step4** Install Chromedriver
+Since is part of the project automated web tests using Selenium WebDriver with Google Chrome is used, it needed to install Chromedriver. First install the chrome browser (if not ) then 
+We need to check our Google Chrome version: Open Google Chrome, go to Settings -> "About Chrome# to see our version. It's important that the ChromeDriver version matches the version of Chrome.
+Then Download correct chromeDriver from (https://googlechromelabs.github.io/chrome-for-testing/) or (https://chromedriver.chromium.org/downloads). 
+Unzip the downloaded file. Open the unzipped directory with terminal. Move it to a  user/bin  (sudo mv chromedriver /usr/bin/). the we set the exutable permission (sudo chmod +x /usr/bin/chromedriver). then verify the installation (chromedriver --version)
+
+
+
+**Step5** Download the tool
 Download the tool from application directory of the GitHub and install it and use it. There are three versions of the tools for three operating systems
 Ubuntu:
 Windows:
 MacOS: 
-
-
-
-
-
-
