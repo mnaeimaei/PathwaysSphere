@@ -31,7 +31,7 @@ copy the code in order to install to activate your copy of Neo4j Desktop for use
 **Step3** Create a project and Local DBMS
 
 Click on Add, then click on "Local DBMS", chose the a name anything that you want, then chose the password as "12345678", finaly chose the version of 5.17.0, and Then click on create
-Then select the project, go to Plugins tab and install , select APOC and then click on Install. and finally click on Start.
+Then select the project, go to Plugins tab and install , select APOC and then click on Install. and finally click on Start. it is recomended (not mandatory) run ":config autoComplete:false" in query in order to hide unrelated realtionship when runing the software
 
 
 
